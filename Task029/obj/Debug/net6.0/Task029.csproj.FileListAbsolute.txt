@@ -1,0 +1,15 @@
+C:\Users\arvac\Desktop\Паша\GeekBrain\Програмирование C#\Homework\Seminar03_part1\Task029\bin\Debug\net6.0\Task029.exe
+C:\Users\arvac\Desktop\Паша\GeekBrain\Програмирование C#\Homework\Seminar03_part1\Task029\bin\Debug\net6.0\Task029.deps.json
+C:\Users\arvac\Desktop\Паша\GeekBrain\Програмирование C#\Homework\Seminar03_part1\Task029\bin\Debug\net6.0\Task029.runtimeconfig.json
+C:\Users\arvac\Desktop\Паша\GeekBrain\Програмирование C#\Homework\Seminar03_part1\Task029\bin\Debug\net6.0\Task029.dll
+C:\Users\arvac\Desktop\Паша\GeekBrain\Програмирование C#\Homework\Seminar03_part1\Task029\bin\Debug\net6.0\Task029.pdb
+C:\Users\arvac\Desktop\Паша\GeekBrain\Програмирование C#\Homework\Seminar03_part1\Task029\obj\Debug\net6.0\Task029.csproj.AssemblyReference.cache
+C:\Users\arvac\Desktop\Паша\GeekBrain\Програмирование C#\Homework\Seminar03_part1\Task029\obj\Debug\net6.0\Task029.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arvac\Desktop\Паша\GeekBrain\Програмирование C#\Homework\Seminar03_part1\Task029\obj\Debug\net6.0\Task029.AssemblyInfoInputs.cache
+C:\Users\arvac\Desktop\Паша\GeekBrain\Програмирование C#\Homework\Seminar03_part1\Task029\obj\Debug\net6.0\Task029.AssemblyInfo.cs
+C:\Users\arvac\Desktop\Паша\GeekBrain\Програмирование C#\Homework\Seminar03_part1\Task029\obj\Debug\net6.0\Task029.csproj.CoreCompileInputs.cache
+C:\Users\arvac\Desktop\Паша\GeekBrain\Програмирование C#\Homework\Seminar03_part1\Task029\obj\Debug\net6.0\Task029.dll
+C:\Users\arvac\Desktop\Паша\GeekBrain\Програмирование C#\Homework\Seminar03_part1\Task029\obj\Debug\net6.0\refint\Task029.dll
+C:\Users\arvac\Desktop\Паша\GeekBrain\Програмирование C#\Homework\Seminar03_part1\Task029\obj\Debug\net6.0\Task029.pdb
+C:\Users\arvac\Desktop\Паша\GeekBrain\Програмирование C#\Homework\Seminar03_part1\Task029\obj\Debug\net6.0\Task029.genruntimeconfig.cache
+C:\Users\arvac\Desktop\Паша\GeekBrain\Програмирование C#\Homework\Seminar03_part1\Task029\obj\Debug\net6.0\ref\Task029.dll
